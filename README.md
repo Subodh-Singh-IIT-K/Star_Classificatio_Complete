@@ -149,7 +149,7 @@ pip install -r requirements.txt
 
 ### 4. Run the Jupyter Notebook
 ```bash
-jupyter notebook "star_classification_notebook (1).ipynb"
+jupyter notebook "Star_Classification_Complete.ipynb"
 ```
 
 ---
@@ -157,7 +157,7 @@ jupyter notebook "star_classification_notebook (1).ipynb"
 ## 📁 Repository Structure
 
 ```text
-├── star_classification_notebook (1).ipynb   # Main end-to-end ML notebook
+├── Star_Classification_Complete.ipynb   # Main end-to-end ML notebook
 ├── star_classification.csv                  # SDSS 100k dataset
 ├── requirements.txt                         # Exact Python dependencies
 └── README.md                                # Comprehensive project documentation
